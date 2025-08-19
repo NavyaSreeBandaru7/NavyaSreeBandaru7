@@ -131,9 +131,6 @@ Streamlit    1 hr 25 mins    ██▒░░░░░░░░░░░░░░
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen&style=flat-square)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=social)
 
 **"Turning data into insights, one analysis at a time!"** 📊✨
 
