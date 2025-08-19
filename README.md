@@ -1,79 +1,53 @@
-<h1 align="center">👋 Navya Sree Bandaru</h1>
+<h1 align="center">Hi 👋, I'm Navya Sree Bandaru</h1>
 <h3 align="center">Data Analyst | Power BI | SQL | Business Insights</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NavyaSreeBandaru&label=Profile%20views&color=0e75b6&style=flat" alt="Navya Sree Bandaru" />
 </p>
 
-## About Me
-
-I am a **results-oriented Data Analyst** with over 5 years of experience specializing in transforming complex business challenges into measurable operational improvements. My expertise spans data-driven decision-making, advanced analytics, and machine learning to deliver impactful solutions. I am passionate about bridging the gap between data and business strategy to drive tangible outcomes.
-
-## 🎯 What I Do
-
-* **Analytics & Business Insights:** I translate raw data into actionable insights that optimize performance and reduce costs.
-* **Data Architecture:** I design and build robust data pipelines and interactive dashboards using **Power BI** and **Tableau**.
-* **Machine Learning:** I develop and deploy machine learning models to solve real-world business problems.
-* **NLP & Research:** I apply Natural Language Processing techniques to extract insights from unstructured data, as demonstrated in my current research work.
-* **Data Strategy:** I collaborate with cross-functional teams to automate workflows and enhance business intelligence.
-
-## 💼 Professional Journey
-
-My career is defined by a commitment to leveraging data for innovation and efficiency.
-
-**Currently Leading Initiatives as a Research Assistant | Oklahoma State University**
-* **NLP-Powered Chatbot:** Developed a **Streamlit** and **BERT**-based chatbot, increasing user engagement by **20%**.
-* **LLM Implementation:** Utilized **LLMs** (Hugging Face) to simplify complex topics, making them accessible to **500+ students**.
-* **Sentiment Analysis:** Analyzed over 10,000 reviews to identify key pain points, leading to a **15% improvement** in customer satisfaction.
-
-**Previous Impact as HR Data Analyst | Tutorialspoint**
-* **Cost Reduction:** Built **Power BI** dashboards that enabled data-driven decisions, cutting HR operational costs by **10%**.
-* **Workflow Automation:** Automated data pipelines with **Python/R**, saving over **10 hours per week** of manual reporting.
-* **Training & Development:** Designed interactive training guides that increased system adoption by **30%** for HR staff.
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Badge">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
-  <img src="https://img.shields.io/badge/NLTK-3972A7?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK Badge">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FF7F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Badge">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-</p>
-
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NavyaSreeBandaru&show_icons=true&locale=en&theme=dark" alt="Navya's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavyaSreeBandaru&theme=dark" alt="Navya's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavyaSreeBandaru&layout=compact&theme=dark" alt="Navya's Top Languages" />
-</p>
+- 🔭 I’m currently working as a Research Assistant at Oklahoma State University
+- 🌱 I’m currently learning to develop NLP-powered applications.
+- 👯 I’m looking to collaborate on data science and machine learning projects.
+- 💬 Ask me about my experience in HR data analytics and NLP.
+- 📫 How to reach me: navya.bandaru@okstate.edu
+- 📍 I'm based in Oklahoma, United States
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/linkedin.svg" alt="your-linkedin-username" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/navyabandaru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/linkedin.svg" alt="navyabandaru" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/your-kaggle-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/kaggle.svg" alt="your-kaggle-username" height="30" width="40" /></a>
 <a href="https://public.tableau.com/profile/your-tableau-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/tableau.svg" alt="your-tableau-username" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="sql" width="40" height="40"/> </a>
+  
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a>
+  <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/alteryx/alteryx-icon.svg" alt="alteryx" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/> </a>
 
-### **Key Changes and Why They Matter**
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_simple.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="huggingface" width="40" height="40"/> </a>
+  <a href="https://spacy.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/spacyio/spacyio-icon.svg" alt="spacy" width="40" height="40"/> </a>
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" alt="streamlit" width="40" height="40"/> </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" alt="jira" width="40" height="40"/> </a>
+  <a href="https://www.sas.com/en_us/software/stat.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sascom/sascom-icon.svg" alt="sas" width="40" height="40"/> </a>
+</p>
 
-* **Streamlined "About Me":** The new "About Me" section is more strategic, framing your experience in terms of **impact** and **expertise** rather than just a list of skills. It directly addresses what you can do for an organization.
-* **Refocused "What I Do":** This section now uses more professional and high-level language. Terms like "Analytics & Business Insights," "Data Architecture," and "Data Strategy" signal that you're not just a tool-user, but a strategic thinker.
-* **Elevated "Professional Journey":** I've restructured your experience to be more concise and highlight quantifiable achievements using **bold** numbers and key terms. This format is far more scannable and impressive to recruiters.
-* **Organized Tech Stack:** The previous list of icons was a bit cluttered. I've replaced it with a cleaner, more organized line of badges that are both visually appealing and professional.
-* **Enhanced GitHub Stats:** I've organized the GitHub stats cards to be more symmetrical and balanced, adding both your overall stats and your top languages to give a more complete picture of your technical contributions.
-* **Removed Redundant Information:** I've removed the generic bullet points (e.g., "I'm looking to collaborate...") from the top. The "Connect with me" section at the bottom is a more professional way to invite collaboration, while the new "About Me" and "What I Do" sections implicitly state your career goals.
-
-
+<h3 align="left">My GitHub Stats</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NavyaSreeBandaru&show_icons=true&locale=en&layout=compact" alt="NavyaSreeBandaru" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NavyaSreeBandaru&show_icons=true&locale=en" alt="NavyaSreeBandaru" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NavyaSreeBandaru&" alt="NavyaSreeBandaru" /></p>
