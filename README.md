@@ -115,10 +115,6 @@ Streamlit    1 hr 25 mins    ██▒░░░░░░░░░░░░░░
 
 </div>
 
-## 📈 Contribution Graph
-
-[![Navya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 💭 Random Quote
 
 <div align="center">
