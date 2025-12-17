@@ -82,7 +82,7 @@ I'm a passionate **Data Analyst** with 5+ years of experience transforming compl
 📜 **Certifications:**
 - Microsoft Power BI Data Analyst
 - SQL for Data Science (Coursera)
-- AWS Academy Cloud Foundations (In Progress)
+- AWS Solution Architect
 
 ## 📊 Weekly Development Breakdown
 
